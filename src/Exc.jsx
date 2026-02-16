@@ -9,62 +9,62 @@ export default function Exc() {
   const excursions = [
     {
       id: 1,
-      title: "Robinson Island and Marafa",
+      title: "Isola di Robinson e Marafa",
       shortDesc:
-        "Experience the breathtaking beauty of Robinson Island with its pristine beaches and crystal-clear waters, combined with the surreal landscape of Marafa Depression - also known as Hell's Kitchen. These sandstone formations create a natural amphitheater with stunning colors ranging from white to deep orange.",
-      price: "$60 per person",
-      duration: "Whole day",
+        "Scopri la straordinaria bellezza dell'Isola di Robinson con le sue spiagge incontaminate e acque cristalline, combinata con il surreale paesaggio della Depressione di Marafa - anche conosciuta come Cucina dell'Inferno. Queste formazioni di arenaria creano un anfiteatro naturale con colori che vanno dal bianco all'arancione intenso.",
+      price: "$60 a persona",
+      duration: "Giornata intera",
       image: "🏝️",
-      fullItinerary: `In the morning departure from the hotel (9 AM) with a vehicle.
-It will be a 1 hour ride you shall pass through Malindi town and then on the way you will see a salt factory which supplies salt in Kenya and other countries bordering Kenya.
-Upon arrival we shall get into the island with a canoe then have a little sunbathing on the golden sand.
-At 1 PM lunch is served the "seafood" but drinks are not included.
-After lunch at 3 PM you shall depart the island with a canoe heading to Marafa Canyons.
-Then you shall have a tour into the canyons.
-Later we wait for the sunset.
-Afterwards you shall return back to the hotel.`,
+      fullItinerary: `Al mattino partenza dall'hotel (ore 9:00) con un veicolo.
+Sarà un viaggio di 1 ora attraverso la città di Malindi e lungo il percorso vedrai una fabbrica di sale che fornisce sale in Kenya e in altri paesi confinanti.
+All'arrivo raggiungeremo l'isola con una canoa e faremo un po' di bagni di sole sulla sabbia dorata.
+Alle 13:00 viene servito il pranzo a base di "pesce" ma le bevande non sono incluse.
+Dopo pranzo, alle 15:00, lasceremo l'isola in canoa dirigendoci verso i Canyon di Marafa.
+Poi faremo un tour nei canyon.
+Successivamente aspetteremo il tramonto.
+Dopodiché tornerai in hotel.`,
     },
     {
       id: 2,
       title: "Safari Blue Watamu",
       shortDesc:
-        "Embark on an unforgettable ocean safari in Watamu. Explore pristine sandbanks, go snorkeling in coral gardens, spot dolphins, and enjoy a delicious seafood lunch. This traditional dhow cruise offers the perfect blend of adventure and relaxation on the Indian Ocean.",
-      price: "$50 per person",
-      duration: "Full day",
+        "Imbarcati in un indimenticabile safari oceanico a Watamu. Esplora banchi di sabbia incontaminati, fai snorkeling nei giardini di corallo, avvista delfini e gusta un delizioso pranzo a base di pesce. Questa tradizionale crociera in dhow offre il perfetto equilibrio tra avventura e relax nell'Oceano Indiano.",
+      price: "$50 a persona",
+      duration: "Giornata intera",
       image: "⛵",
-      fullItinerary: `You shall depart from the hotel at 9 AM.
-Have a boat ride towards the marine guided area where you shall do snorkeling "swim with the fish".
-Then go ahead and look for dolphins and turtles.
-Later on you proceed to Mida Creek where you shall see the beautiful starfish and mangroves and some breeding areas for the fish.
-While looking/watching all this you shall also be heading to Sudi Island where you shall be eating all kinds of seafood and if you are not eating seafood you shall be provided with other food.
-After lunch we shall be returning to the hotel, this will be around 3:30 PM.`,
+      fullItinerary: `Partenza dall'hotel alle 9:00.
+Gita in barca verso l'area marina protetta dove farai snorkeling "nuotando con i pesci".
+Poi proseguirai alla ricerca di delfini e tartarughe.
+Successivamente ti dirigerai verso Mida Creek dove vedrai bellissime stelle marine, mangrovie e alcune zone di riproduzione dei pesci.
+Mentre osservi tutto questo, ti dirigerai anche verso l'Isola di Sudi dove potrai gustare ogni tipo di pesce e, se non mangi pesce, ti verranno forniti altri cibi.
+Dopo pranzo torneremo in hotel, intorno alle 15:30.`,
     },
     {
       id: 3,
-      title: "Gede Ruins and School Visit",
+      title: "Rovine di Gede e Visita Scolastica",
       shortDesc:
-        "Explore the mystical Gede Ruins, a 12th-century Swahili town hidden in the forest. After the historical tour, visit a local school to interact with students and teachers, experiencing authentic Kenyan education and culture. A perfect blend of history and community engagement.",
-      price: "$30 per person",
-      duration: "Afternoon tour",
+        "Esplora le mistiche Rovine di Gede, una città Swahili del XII secolo nascosta nella foresta. Dopo il tour storico, visita una scuola locale per interagire con studenti e insegnanti, sperimentando l'autentica educazione e cultura keniota. Un perfetto connubio tra storia e impegno comunitario.",
+      price: "$30 a persona",
+      duration: "Tour pomeridiano",
       image: "🏛️",
-      fullItinerary: `Departure from the hotel in the afternoon by car.
-Then proceed to the ruins where you shall be feeding bananas and groundnuts to monkeys.
-Then have a visit to the ruins with a guide and also hear the history of how the Arabs lived and how they managed their things.
-Later on we proceed to a local school.
-Then go back to the hotel.`,
+      fullItinerary: `Partenza dall'hotel nel pomeriggio in auto.
+Poi prosegui verso le rovine dove darai da mangiare banane e arachidi alle scimmie.
+Poi visiterai le rovine con una guida e ascolterai la storia di come vivevano gli arabi e come gestivano le loro cose.
+Successivamente ci rechiamo in una scuola locale.
+Poi ritorno in hotel.`,
     },
     {
       id: 4,
-      title: "African Village Experience",
+      title: "Esperienza in un Villaggio Africano",
       shortDesc:
-        "Immerse yourself in authentic Kenyan culture with a visit to a traditional village. Participate in daily activities, learn about local customs, taste traditional food, and interact with community members. Experience the warmth and hospitality of African village life firsthand.",
-      price: "$30 per person",
-      duration: "Half day",
+        "Immergiti nell'autentica cultura keniota con la visita a un villaggio tradizionale. Partecipa alle attività quotidiane, scopri le usanze locali, assaggia il cibo tradizionale e interagisci con i membri della comunità. Sperimenta il calore e l'ospitalità della vita del villaggio africano in prima persona.",
+      price: "$30 a persona",
+      duration: "Mezza giornata",
       image: "🏘️",
-      fullItinerary: `Departure from the hotel by car.
-Then go to the village where you will be welcomed by dance and some drama.
-Then later have a tour of the village, see how different things are conducted.
-These activities will be like preparing local houses with tree trunks, preparing flour with maize, making clothes also, drinking beer from coconut tree.`,
+      fullItinerary: `Partenza dall'hotel in auto.
+Poi vai al villaggio dove sarai accolto con danze e recite.
+Successivamente faremo un tour del villaggio, vedendo come si svolgono le diverse attività.
+Queste attività includeranno la preparazione delle case tradizionali con tronchi d'albero, la preparazione della farina con il mais, la realizzazione di vestiti e la degustazione di birra ricavata dall'albero di cocco.`,
     },
   ];
 
@@ -87,10 +87,10 @@ These activities will be like preparing local houses with tree trunks, preparing
             }}
           >
             <p style={{ margin: "5px 0", fontSize: "18px" }}>
-              <strong>💰 Price:</strong> {excursion.price}
+              <strong>💰 Prezzo:</strong> {excursion.price}
             </p>
             <p style={{ margin: "5px 0", fontSize: "18px" }}>
-              <strong>⏱️ Duration:</strong> {excursion.duration}
+              <strong>⏱️ Durata:</strong> {excursion.duration}
             </p>
           </div>
 
@@ -112,7 +112,7 @@ These activities will be like preparing local houses with tree trunks, preparing
                 paddingBottom: "10px",
               }}
             >
-              📋 Detailed Itinerary:
+              📋 Itinerario Dettagliato:
             </p>
             <p
               style={{
@@ -129,8 +129,8 @@ These activities will be like preparing local houses with tree trunks, preparing
         </div>
       ),
       showCloseButton: true,
-      showCancelButton: false, // Removed Cancel button
-      showConfirmButton: false, // Removed Confirm button (Book Now)
+      showCancelButton: false,
+      showConfirmButton: false,
       width: "600px",
       padding: "20px",
       background: "#fff",
@@ -157,7 +157,7 @@ These activities will be like preparing local houses with tree trunks, preparing
             fontWeight: "bold",
           }}
         >
-          🗺️ Kenyan Excursions with Cimo service
+          🗺️ Escursioni Keniane con Cimo Service
         </h1>
 
         <p
@@ -169,7 +169,8 @@ These activities will be like preparing local houses with tree trunks, preparing
             fontStyle: "italic",
           }}
         >
-          Discover the beauty and culture of Kenya with our handcrafted tours
+          Scopri la bellezza e la cultura del Kenya con i nostri tour
+          artigianali
         </p>
 
         <div
@@ -311,7 +312,7 @@ These activities will be like preparing local houses with tree trunks, preparing
                       "0 4px 15px rgba(102, 126, 234, 0.4)";
                   }}
                 >
-                  View Full Itinerary
+                  Vedi Itinerario Completo
                 </button>
               </div>
             </div>
@@ -327,8 +328,8 @@ These activities will be like preparing local houses with tree trunks, preparing
             padding: "20px",
           }}
         >
-          ✨ All tours include hotel pickup and drop-off • Professional guides •
-          Best price guaranteed
+          ✨ Tutti i tour includono pickup e rientro in hotel • Guide
+          professionali • Miglior prezzo garantito
         </div>
       </div>
     </div>
