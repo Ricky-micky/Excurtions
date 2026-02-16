@@ -38,6 +38,7 @@ Then go ahead and look for dolphins and turtles.
 Later on you proceed to Mida Creek where you shall see the beautiful starfish and mangroves and some breeding areas for the fish.
 While looking/watching all this you shall also be heading to Sudi Island where you shall be eating all kinds of seafood and if you are not eating seafood you shall be provided with other food.
 After lunch we shall be returning to the hotel, this will be around 3:30 PM.`,
+                        
     },
     {
       id: 3,
@@ -170,7 +171,7 @@ These activities will be like preparing local houses with tree trunks, preparing
             fontWeight: "bold",
           }}
         >
-          🗺️ Kenyan Excursions
+          🗺️ Kenyan Excursions with Cimo service 
         </h1>
 
         <p
